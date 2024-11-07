@@ -1,0 +1,59 @@
+/* White: #ffffff;
+    Accent 1: #A06C25
+    Accent 2: #4671DD
+    */
+body {
+    padding: 20px; 
+    font-size: 16px;
+    } 
+
+h1, h2, h3 {
+    color: #A06C25; 
+    text-align: center; 
+}
+
+table {
+  border-collapse: collapse;
+
+}
+
+th, td {
+ 
+  border: #468BA6 solid 5px ;
+  padding: 10px;
+}
+
+p, li, th, td {
+  font-size: 1.2em;
+}
+a {
+  color: #A06C25;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover{
+    color: #4671DD;
+  }
+
+.paragraph-model {
+    background-color: #A06C25; 
+    color: #FFFFFF; 
+    width: 80%; 
+    padding: 15px; 
+    border: 10px dashed #4671DD;
+    margin: 20px 0; 
+}
+
+div {
+    background-color: #A06C25;
+    color: #ffffff;
+    width: 646px;
+    padding: 13px;
+    border: 15px double #4671DD;
+
+
+}
+
+
+

@@ -1,0 +1,66 @@
+
+
+
+/* Colors: 
+	Tan: #F4D7C4
+	Blue: #2A7AA8
+	Green: #4D6B59
+	L Brown: #A65C41
+	Brown: #A06C25
+
+	*/
+
+
+body {
+	background-color: #F4D7C4;
+	padding: 0 24px 36px 24px;
+}
+h1 {
+	text-align: center;
+	font-weight: bold;
+}
+h1, h3 {
+	color: #2A7AA8;
+	font-weight: bold;
+}
+h2 {
+	color: #4D6B59;
+	font-weight: bold;
+}
+p.picture{
+	text-align: center;
+}
+
+
+
+table {
+  border-collapse: collapse;
+  text-align: center;
+
+}
+
+th, td {
+ 	border: #A65C41 groove 15px ;
+  	padding: 20px;
+}
+
+p, li, th, td {
+  font-size: 1.2em;
+}
+a {
+  color: #A06C25;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+.paragraph-model {
+    background-color: #2A7AA8; 
+    color: #FFFFFF; 
+    width: 80%; 
+    padding: 15px; 
+    margin: 20px 0; 
+}
+
+
+
